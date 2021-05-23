@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+
+.main_container_devteam {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.main_container_devteam .dev_title {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 40px 0;
+}
+
+.main_container_devteam section {
+  position: relative;
+}
+
+.main_container_devteam .container {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 0;
+  padding: 0;
+}
+
+.main_container_devteam .container .card {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  background-color: #000000;
+  opacity: 0.85;
+  margin: 20px;
+  margin-top: 75px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(10px);
+}
+
+.main_container_devteam .container .card .content {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  opacity: 0.8;
+  transform: 0.5s;
+}
+
+.main_container_devteam .container .card:hover .content {
+  opacity: 1;
+  transform: translateY(-20px);
+}
+
+.main_container_devteam .container .card .content .imgBx {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 10px solid rgba(0, 0, 0, 0.25);
+}
+
+.main_container_devteam .container .card .content .imgBx img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main_container_devteam .container .card .content .contentBx h3 {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 0 10px;
+  line-height: 1.1em;
+}
+
+.main_container_devteam .container .card .content .contentBx h3 span {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: initial;
+}
+
+@media screen and (max-width: 400px) {
+  .main_container_devteam .container .card {
+    height: 320px;
+    width: 250px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .main_container_devdteam .container {
+    width: 100%;
+  }
+}

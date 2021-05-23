@@ -1,0 +1,135 @@
+.constainer {
+  margin: 0 auto;
+  width: 100%;
+}
+
+#overlay {
+  position: relative;
+  width: 100%;
+}
+
+.background {
+  position: relative;
+  font-size: 6.3rem;
+  width: 100%;
+  margin: 0 auto;
+  height: 100px;
+  font-weight: 700;
+  opacity: 0.12;
+  transform: scaleY(1.2);
+  transform: scaleX(0.7);
+}
+
+#overlay .background .len1 {
+  position: absolute;
+  top: 0px;
+  left: 190px;
+  width: 130px;
+  height: 20px;
+  background-color: aqua;
+}
+#overlay .background .len2 {
+  position: absolute;
+  bottom: -50px;
+  right: 185px;
+  width: 130px;
+  height: 20px;
+
+  background-color: aqua;
+}
+
+#overlay .top_text {
+  transform: scaleY(1.2);
+  transform: scaleX(0.7);
+  opacity: 1 !important;
+  font-size: 3.7rem;
+  font-weight: 700;
+  position: absolute;
+  top: 31%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media screen and (max-width: 1140px) {
+  .background {
+    font-size: 5.3rem;
+  }
+  #overlay .top_text {
+    font-size: 2.8rem;
+  }
+  #overlay .background .len2 {
+    bottom: -25px;
+  }
+}
+
+@media screen and (max-width: 966px) {
+  .background {
+    font-size: 4.3rem;
+  }
+
+  #overlay .top_text {
+    font-size: 2.5rem;
+    transform: scaleX(0.8);
+  }
+  #overlay .background .len2 {
+    bottom: -5px;
+  }
+}
+@media screen and (max-width: 655px) {
+  .background {
+    font-size: 3rem;
+  }
+  #overlay .top_text {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 555px) {
+  .background {
+    font-size: 2.5rem;
+    transform: scaleX(0.9);
+    bottom: -15px;
+  }
+  #overlay .top_text {
+    font-size: 2rem;
+    transform: scaleX(0.8);
+  }
+
+  #overlay .background .len1 {
+    top: -10px;
+    left: 100px;
+  }
+  #overlay .background .len2 {
+    bottom: 10px;
+    right: 100px;
+  }
+  .Our .content .service {
+    padding: 0 20px;
+  }
+  .Our header {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 445px) {
+  .Our header {
+    margin-bottom: 100px;
+  }
+  #overlay .background .len2 {
+    bottom: 10px;
+    right: 40px;
+  }
+  #overlay .background .len1 {
+    position: absolute;
+    left: 50px;
+  }
+  .background {
+    font-size: 2.5rem;
+  }
+  #overlay .top_text {
+    font-size: 2rem;
+  }
+}

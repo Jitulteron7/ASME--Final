@@ -1,0 +1,57 @@
+#header {
+  background: transparent !important;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  padding: 0.5% 12%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#header .navbar {
+  background: transparent !important;
+}
+
+#header .navbar .logo img {
+  width: 80px;
+  height: 60px;
+}
+
+#header .navbar a {
+  font-size: 1rem;
+  color: #fff;
+}
+
+#header .navbar .nav-item .nav-link:hover {
+  text-decoration: underline;
+}
+
+#header .navbar .navbar-collapse {
+  justify-content: flex-end;
+}
+
+#header .navbar .navbar-collapse ul li {
+  padding: 5px 25px;
+}
+@media screen and (max-width: 992px) {
+  #header {
+    background: rgba(255, 255, 255, 0.55) !important;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37) !important;
+    backdrop-filter: blur(18px) !important;
+    -webkit-backdrop-filter: blur(18px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.18) !important;
+    z-index: 100;
+  }
+}
+
+.dropdown-menu{
+  background: rgba(253, 253, 253, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.dropdown-item:hover{
+  color: #000 !important
+}

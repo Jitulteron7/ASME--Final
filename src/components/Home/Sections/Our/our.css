@@ -1,0 +1,19 @@
+._long_jt {
+    display: block;
+}
+
+._short_jt {
+  display: none !important;
+}
+
+@media screen and (max-width: 400px) {
+  ._short_jt {
+    display: block !important;
+    font-size: 1rem !important;
+    font-weight:bold !important
+    
+  }
+  ._long_jt {
+    display: none;
+  }
+}
