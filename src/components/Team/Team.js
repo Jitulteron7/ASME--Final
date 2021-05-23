@@ -4,8 +4,6 @@ import img1 from "./assets/IMG20210412165453 - SAMUDRA JIT BORUAH 042.jpg";
 import img2 from "./assets/IMG_20210413_225615 - SWARUP_PANDEY_048.jpg";
 import img3 from "./assets/IMG_20200321_181927_372 - KARAN CHETRI.jpg";
 import img4 from "./assets/IMG_20210404_114452 - ABHISHEK BORDOLOI _ 017.jpg";
-import img5 from "./assets/team_02.jpg";
-import img6 from "./assets/team_02.jpg";
 import img7 from "./assets/IMG-20210421-WA0006 - ABHIMANYU PRATAP SINGH.jpg";
 import img8 from "./assets/IMG20210420173812 - RIZVAAN MEDHI.jpg";
 import img9 from "./assets/Triranga - 038_Triranga Bikrom Borah.jpg";
@@ -40,15 +38,15 @@ const Team = () => {
       <NavBar />
       <div className="main_container_team">
         <section>
-        <div className="container">
+          <div className="container">
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src="/GuestImage/guest7.jpg" />
+                  <img src="/GuestImage/guest7.jpg" alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
-                  Dr. K M Pandey
+                    Dr. K M Pandey
                     <br />
                     <span>ASME Faculty Advisor</span>
                   </h3>
@@ -70,11 +68,11 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src="/GuestImage/guest8.jpg" />
+                  <img src="/GuestImage/guest8.jpg" alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
-                  Dr. Biplab Das
+                    Dr. Biplab Das
                     <br />
                     <span>ASME E-Fest Advisor</span>
                   </h3>
@@ -98,7 +96,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img1} />
+                  <img src={img1} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -110,7 +108,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -124,7 +122,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img2} />
+                  <img src={img2} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -136,7 +134,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -154,7 +152,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img3} />
+                  <img src={img3} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -166,7 +164,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -180,7 +178,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img4} />
+                  <img src={img4} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -192,7 +190,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -206,7 +204,12 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={"https://media-exp1.licdn.com/dms/image/C4E03AQE1Co_v5od2Ow/profile-displayphoto-shrink_800_800/0/1617431271700?e=1626912000&v=beta&t=-RrwOrgtRoC7d03hgV4NxhG-NqCzxmmQFOyfl46JUVs"} />
+                  <img
+                    src={
+                      "https://media-exp1.licdn.com/dms/image/C4E03AQE1Co_v5od2Ow/profile-displayphoto-shrink_800_800/0/1617431271700?e=1626912000&v=beta&t=-RrwOrgtRoC7d03hgV4NxhG-NqCzxmmQFOyfl46JUVs"
+                    }
+                    alt=""
+                  />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -218,12 +221,12 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                   </a>
                 </li>
@@ -232,7 +235,12 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={"https://media-exp1.licdn.com/dms/image/C5603AQEluiwdmAVkhg/profile-displayphoto-shrink_800_800/0/1587625737779?e=1626912000&v=beta&t=7tNccMfzWSMu7vYhVqYSqXPcHmMD__xbGXlfxdAKqMM"} />
+                  <img
+                    src={
+                      "https://media-exp1.licdn.com/dms/image/C5603AQEluiwdmAVkhg/profile-displayphoto-shrink_800_800/0/1587625737779?e=1626912000&v=beta&t=7tNccMfzWSMu7vYhVqYSqXPcHmMD__xbGXlfxdAKqMM"
+                    }
+                    alt=""
+                  />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -244,7 +252,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -262,7 +270,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img7} />
+                  <img src={img7} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -274,7 +282,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -288,7 +296,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img8} />
+                  <img src={img8} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -300,7 +308,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -318,7 +326,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img31} />
+                  <img src={img31} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -330,7 +338,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -344,7 +352,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img9} />
+                  <img src={img9} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -356,7 +364,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -370,7 +378,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img10} />
+                  <img src={img10} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -382,7 +390,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -396,7 +404,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img11} />
+                  <img src={img11} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -408,7 +416,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -422,7 +430,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img12} />
+                  <img src={img12} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -434,7 +442,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -448,7 +456,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img13} />
+                  <img src={img13} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -460,7 +468,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -474,7 +482,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img14} />
+                  <img src={img14} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -486,7 +494,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -500,7 +508,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img15} />
+                  <img src={img15} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -512,7 +520,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -530,7 +538,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img16} />
+                  <img src={img16} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -542,7 +550,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -556,7 +564,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img17} />
+                  <img src={img17} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -568,7 +576,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -582,7 +590,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img18} />
+                  <img src={img18} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -594,7 +602,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -608,7 +616,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img19} />
+                  <img src={img19} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -620,7 +628,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -634,7 +642,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img20} />
+                  <img src={img20} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -646,7 +654,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -660,7 +668,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img21} />
+                  <img src={img21} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -672,7 +680,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -686,7 +694,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img22} />
+                  <img src={img22} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -698,7 +706,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -712,7 +720,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img23} />
+                  <img src={img23} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -724,7 +732,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -738,7 +746,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img24} />
+                  <img src={img24} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -749,7 +757,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -763,7 +771,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img25} />
+                  <img src={img25} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -789,7 +797,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img26} />
+                  <img src={img26} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -801,7 +809,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -815,7 +823,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img27} />
+                  <img src={img27} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -841,7 +849,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img28} />
+                  <img src={img28} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -853,7 +861,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -867,7 +875,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img29} />
+                  <img src={img29} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -893,7 +901,7 @@ const Team = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={img30} />
+                  <img src={img30} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>

@@ -21,14 +21,14 @@ const About = () => {
             students and the willing to upgrade by virtue of their own ideas.
           </p>
         </div>
-        <img src={"/AboutPic/Slide2.jpg"} style={{width:"80%"}} />
-        <img src={"/AboutPic/Slide3.jpg"} style={{width:"80%",marginTop:"5%"}} />
-        <div className={"aboutus_pics"}>
-        
-      
-        </div>
+        <img src={"/AboutPic/Slide2.jpg"} alt="" style={{ width: "80%" }} />
+        <img
+          src={"/AboutPic/Slide3.jpg"}
+          alt=""
+          style={{ width: "80%", marginTop: "5%" }}
+        />
+        <div className={"aboutus_pics"}></div>
       </div>
-
     </>
   );
 };

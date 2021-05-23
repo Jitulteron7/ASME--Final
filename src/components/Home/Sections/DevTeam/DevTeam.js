@@ -4,8 +4,10 @@ import Title from "../../../ui_utils/Title/Title";
 import Photo1 from "./Photos/Sohan.jpg";
 import Photo2 from "./Photos/Jitul.jpg";
 import Photo3 from "./Photos/DJ.jpg";
-import Photo4 from "./Photos/Adarsh.jpg";
-import Photo5 from "./Photos/Chandra.jpg";
+import Photo4 from "./Photos/Tejaswini.jpg";
+import Photo5 from "./Photos/Kachali.jpg";
+import Photo6 from "./Photos/Adarsh.jpg";
+import Photo7 from "./Photos/Chandra.jpg";
 
 const DevTeam = () => {
   return (
@@ -17,7 +19,7 @@ const DevTeam = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={Photo1} />
+                  <img src={Photo1} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -31,7 +33,7 @@ const DevTeam = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={Photo2} />
+                  <img src={Photo2} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -45,7 +47,7 @@ const DevTeam = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={Photo3} />
+                  <img src={Photo3} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -59,7 +61,35 @@ const DevTeam = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={Photo4} />
+                  <img src={Photo4} alt="" />
+                </div>
+                <div className="contentBx">
+                  <h3>
+                    Tejaswini A V S V
+                    <br />
+                    <span>Front-End Developer</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="card">
+              <div className="content">
+                <div className="imgBx">
+                  <img src={Photo5} alt="" />
+                </div>
+                <div className="contentBx">
+                  <h3>
+                    Kachali Sarma
+                    <br />
+                    <span>Front-End Developer</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="card">
+              <div className="content">
+                <div className="imgBx">
+                  <img src={Photo6} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>
@@ -73,7 +103,7 @@ const DevTeam = () => {
             <div className="card">
               <div className="content">
                 <div className="imgBx">
-                  <img src={Photo5} />
+                  <img src={Photo7} alt="" />
                 </div>
                 <div className="contentBx">
                   <h3>

@@ -1,9 +1,7 @@
 import React from "react";
 import "./../Sections.css";
 import Title from "../../../ui_utils/Title/Title";
-import image from "../../../ui_utils/img/test.jpg";
-import { Link } from "react-router-dom";
-import "./our.css"
+import "./our.css";
 const Our = () => {
   return (
     <>
@@ -13,7 +11,7 @@ const Our = () => {
         </header>
         <div className="content">
           <div className="service">
-            <img src="/OurLogo/color-palette.png" />
+            <img src="/OurLogo/color-palette.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
@@ -30,7 +28,7 @@ const Our = () => {
             </div>
           </div>
           <div className="service">
-            <img src="/OurLogo/Planet.png" />
+            <img src="/OurLogo/Planet.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
@@ -47,7 +45,7 @@ const Our = () => {
             </div>
           </div>
           <div className="service">
-            <img src="/OurLogo/Allied Sciences.png" />
+            <img src="/OurLogo/Allied Sciences.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
@@ -64,7 +62,7 @@ const Our = () => {
             </div>
           </div>
           <div className="service">
-            <img src="/OurLogo/Multidisciplinary engg.png" />
+            <img src="/OurLogo/Multidisciplinary engg.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
