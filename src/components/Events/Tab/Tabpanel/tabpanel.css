@@ -56,7 +56,8 @@
 }
 
 .tab_panel .content .write p {
-  margin-left: 4%;
+  margin-left: 5%;
+  margin-right: 5%;
   font-size: 1.15rem;
   font-weight: bold;
   line-height: 2;
