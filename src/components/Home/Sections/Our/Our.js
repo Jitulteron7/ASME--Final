@@ -28,7 +28,7 @@ const Our = () => {
             </div>
           </div>
           <div className="service">
-            <img src="/OurLogo/Planet.png" alt="" />
+            <img src="/OurLogo/planet.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
