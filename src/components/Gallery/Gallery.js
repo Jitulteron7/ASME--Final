@@ -28,6 +28,7 @@ const img22="/Aeromania/p2.jpg";
 const img23="/HVPC/middle.jpg";
 const img24="/galleryNew/1.jpg";
 const img25="/galleryNew/2.jpeg";
+
 const GalleryGrid = () => {
   const IMAGES = [
     {

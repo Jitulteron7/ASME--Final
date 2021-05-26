@@ -62,7 +62,7 @@ const Our = () => {
             </div>
           </div>
           <div className="service">
-            <img src="/OurLogo/Multidisciplinary engg.png" alt="" />
+            <img src="/OurLogo/multidisciplinary engg.png" alt="" />
             <div className="content_box">
               <div className="line">
                 <div className="dot"></div>
