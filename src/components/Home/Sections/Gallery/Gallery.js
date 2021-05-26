@@ -1,16 +1,16 @@
 import React from "react";
 import ImageGallery from "react-image-gallery";
-import img1 from "./GalleryImg/g1.jpeg";
-import img3 from "./GalleryImg/g3.jpeg";
-import img4 from "./GalleryImg/g4.jpeg";
-import img5 from "./GalleryImg/g5.jpeg";
+import img1 from "./GalleryImg/g1.jpg";
+import img3 from "./GalleryImg/g3.jpg";
+import img4 from "./GalleryImg/g4.jpg";
+import img5 from "./GalleryImg/g5.jpg";
 
 const images = [
   {
     original: img1,
     thumbnail: img1,
   },
-  
+
   {
     original: img3,
     thumbnail: img3,
@@ -26,8 +26,6 @@ const images = [
 ];
 
 const Gallery = () => {
-  
-
   return (
     <div className="gallery_asme">
       <ImageGallery autoPlay={false} items={images}></ImageGallery>;

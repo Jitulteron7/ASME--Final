@@ -18,7 +18,7 @@ const imgArr2 = [
   "/IAM3D/3d3.jpg",
   "/IAM3D/3d4.jpg",
 ];
-const imgArr3 = ["/SDC/SDC1.jpeg", "/SDC/SDC2.jpeg", "/SDC/SDC3.jpeg"];
+const imgArr3 = ["/SDC/SDC1.jpg", "/SDC/SDC2.jpg", "/SDC/SDC3.jpg"];
 
 const TitleEvent = () => {
   return (

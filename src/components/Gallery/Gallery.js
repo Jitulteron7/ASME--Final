@@ -9,25 +9,25 @@ import img3 from "../Events/Tab/img/3d3.jpg";
 import img4 from "../Events/Tab/img/p1.jpg";
 import img5 from "../Events/Tab/img/p2.jpg";
 import img6 from "../Events/Tab/img/p3.jpg";
-import img7 from "../Events/Tab/img/a1.jpeg";
-import img8 from "../Home/Sections/Gallery/GalleryImg/g1.jpeg";
-import img9 from "../Home/Sections/Gallery/GalleryImg/g3.jpeg";
-import img10 from "../Home/Sections/Gallery/GalleryImg/g4.jpeg";
+import img7 from "../Events/Tab/img/a1.jpg";
+import img8 from "../Home/Sections/Gallery/GalleryImg/g1.jpg";
+import img9 from "../Home/Sections/Gallery/GalleryImg/g3.jpg";
+import img10 from "../Home/Sections/Gallery/GalleryImg/g4.jpg";
 
-import img11 from "../Home/Sections/Gallery/GalleryImg/g5.jpeg";
+import img11 from "../Home/Sections/Gallery/GalleryImg/g5.jpg";
 
-const  img13 = "/HVPC/8.jpg";
-const  img14 = "/HVPC/12.jpg";
-const  img16 = "/SDC/SDC1.jpeg";
-const  img17 = "/SDC/SDC2.jpeg";
-const  img18 = "/SDC/SDC3.jpeg";
-const  img19 = "/HVPC/4.jpg";
-const  img20 = "/HVPC/10.jpg";
-const img21="/Aeromania/p1.jpg";
-const img22="/Aeromania/p2.jpg";
-const img23="/HVPC/middle.jpg";
-const img24="/galleryNew/1.jpg";
-const img25="/galleryNew/2.jpeg";
+const img13 = "/HVPC/8.jpg";
+const img14 = "/HVPC/12.jpg";
+const img16 = "/SDC/SDC1.jpg";
+const img17 = "/SDC/SDC2.jpg";
+const img18 = "/SDC/SDC3.jpg";
+const img19 = "/HVPC/4.jpg";
+const img20 = "/HVPC/10.jpg";
+const img21 = "/Aeromania/p1.jpg";
+const img22 = "/Aeromania/p2.jpg";
+const img23 = "/HVPC/middle.jpg";
+const img24 = "/galleryNew/1.jpg";
+const img25 = "/galleryNew/2.jpg";
 
 const GalleryGrid = () => {
   const IMAGES = [
@@ -121,7 +121,7 @@ const GalleryGrid = () => {
       thumbnailHeight: 274,
       isSelected: false,
     },
-    
+
     {
       src: img13,
       thumbnail: img13,
@@ -136,7 +136,7 @@ const GalleryGrid = () => {
       thumbnailHeight: 374,
       isSelected: false,
     },
-    
+
     {
       src: img16,
       thumbnail: img16,

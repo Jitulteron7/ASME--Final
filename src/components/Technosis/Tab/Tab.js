@@ -6,7 +6,7 @@ import img1 from "../../ui_utils/img/banner1.jpg";
 
 const imgArr1 = ["/Planeador/1.jpg", "/Planeador/2.jpg", "/Planeador/3.jpg"];
 
-const imgArr2 = ["/Aeromania/1.jpeg", "/Aeromania/2.jpeg"];
+const imgArr2 = ["/Aeromania/1.jpg", "/Aeromania/2.jpg"];
 
 const TitleEvent = () => {
   return (
