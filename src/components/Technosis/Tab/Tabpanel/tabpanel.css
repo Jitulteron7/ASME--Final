@@ -2,7 +2,7 @@
   position: relative;
   top: 50px;
   height: 350px;
-  background-image: url("./bg.jpeg");
+  background-image: url("./bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
