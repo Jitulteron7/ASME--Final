@@ -2,7 +2,7 @@ import React from "react";
 import "./video.css";
 import VideoPlayer from "react-video-js-player";
 // import  Vid from "./asme_INTRO_video.mp4"
-const  Vid ="";
+const  Vid ="https://asmevideo.s3.us-east-2.amazonaws.com/asme_INTRO_video.mp4";
 
 const Video = () => {
   return (
