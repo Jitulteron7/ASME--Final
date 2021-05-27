@@ -3,8 +3,9 @@ import "./Guest.css";
 
 function Guest() {
   return (
+
     <section id="bg">
-      <div id="heading">Guests</div>
+      <div id="heading">Guests Speaker</div>
       <section className="carousel">
         <div id="carousel-slide" className="carousel slide" data-ride="false">
           <div className="carousel-inner">

@@ -10,7 +10,9 @@ const imgArr1 = [
   "/HVPC/9.jpg",
   "/HVPC/11.jpg",
   "/HVPC/middle.jpg",
+  "/galleryNew/2.jpg"
 ];
+
 
 const imgArr2 = [
   "/IAM3D/3d1.jpg",
@@ -18,7 +20,7 @@ const imgArr2 = [
   "/IAM3D/3d3.jpg",
   "/IAM3D/3d4.jpg",
 ];
-const imgArr3 = ["/SDC/SDC1.jpg", "/SDC/SDC2.jpg", "/SDC/SDC3.jpg"];
+const imgArr3 = ["/SDC/SDC1.jpg", "/SDC/SDC2.jpg", "/SDC/SDC3.jpg","/galleryNew/1.jpg"];
 
 const TitleEvent = () => {
   return (
