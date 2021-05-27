@@ -27,6 +27,9 @@ const DevTeam = () => {
                     <br />
                     <span>UI/UX Developer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/sohan-paul/">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -41,6 +44,9 @@ const DevTeam = () => {
                     <br />
                     <span>Full-Stack Developer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/jitul-teron/">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -55,6 +61,9 @@ const DevTeam = () => {
                     <br />
                     <span>Front-End Developer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/deepjyoti-hazarika-400452193/">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -69,6 +78,9 @@ const DevTeam = () => {
                     <br />
                     <span>Front-End Developer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/tejaswini-a-v-s-v-4b648319a/">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -83,6 +95,9 @@ const DevTeam = () => {
                     <br />
                     <span>Front-End Developer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/kachali-sarma-b4694b1b0">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -97,6 +112,9 @@ const DevTeam = () => {
                     <br />
                     <span>Content Writer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/adarsh-mishra-5b84871b0/">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -111,6 +129,9 @@ const DevTeam = () => {
                     <br />
                     <span>Content Writer</span>
                   </h3>
+                  <a href="https://www.linkedin.com/in/chandraa-gogoi-37b6aa204">
+                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
