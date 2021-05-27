@@ -5,7 +5,7 @@ function Guest() {
   return (
 
     <section id="bg">
-      <div id="heading">Guests Speaker</div>
+      <div id="heading">Guest Speakers</div>
       <section className="carousel">
         <div id="carousel-slide" className="carousel slide" data-ride="false">
           <div className="carousel-inner">
