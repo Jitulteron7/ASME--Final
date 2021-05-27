@@ -108,7 +108,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/samudrajeet.boruah.007">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -134,7 +134,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/swarup.pandey.758">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -164,7 +164,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/karan.chetri.31">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -190,7 +190,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/abhishek.bordoloi.129">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -221,12 +221,12 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/hikikomori97">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="https://www.linkedin.com/in/mukunda-madhab-sharma-166b09157/">
                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                   </a>
                 </li>
@@ -252,12 +252,12 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/soh.xlm">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/sohail-alam-a5bbbb144/">
                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                   </a>
                 </li>
@@ -282,7 +282,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/abhi.nits995777">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -308,7 +308,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/rizvaan.medhi">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -338,7 +338,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/inzamumhussain.mazumder.7">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -364,7 +364,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/bikrom023">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -390,7 +390,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100010287973431">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -416,7 +416,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/debanjana.purkayastha.5">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -442,7 +442,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100006618308604">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -468,7 +468,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/arjoika.paul">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -494,7 +494,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/SheetzSonu">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -520,7 +520,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/pra.khar.1004">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -550,7 +550,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100006964561539">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -576,7 +576,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/swatha.das.5">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -602,7 +602,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/yu.gabrat.77/">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -628,7 +628,8 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/juman.bhuyan.3   
+">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -654,7 +655,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100012113804300">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -680,7 +681,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100006877720594">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -706,7 +707,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/chandraa.gogoi.5">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -732,7 +733,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100005296785800">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -757,7 +758,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100015511801037">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -783,7 +784,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="https://www.facebook.com/sukumar.prathipati.10">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -809,7 +810,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100005683931250">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -835,7 +836,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="https://www.facebook.com/anindita.dey.16940599">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -861,7 +862,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=100007706166757">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -887,7 +888,7 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="https://www.facebook.com/charithasree.swaprum">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
@@ -913,12 +914,12 @@ const Team = () => {
               </div>
               <ui className="sci">
                 <li>
-                  <a href="#">
+                  <a href="https://www.facebook.com/durgance.gaur/">
                     <i className="fa fa-facebook-official" aria-hidden="true" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://www.linkedin.com/in/durgance-gaur/">
                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                   </a>
                 </li>
